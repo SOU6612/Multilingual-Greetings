@@ -1,4 +1,4 @@
-The goal of this coding exam is to quickly get you off the ground with **Lists and Keys**.
+The goal of this project is to quickly get you off the ground with **Lists and Keys**.
 
 ### Refer to the image below:
 
@@ -47,19 +47,6 @@ The app must have the following functionalities
 
 </details>
 
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instruction is required for the tests to pass**
-
-- The image should have the alt attribute value as the key `imageAltText` from `languageGreetingsList` provided
-
-</details>
-
 ### Resources
 
 <details>
@@ -80,7 +67,3 @@ The app must have the following functionalities
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
